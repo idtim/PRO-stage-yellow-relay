@@ -7,7 +7,7 @@ https://yellowrelay.com/
 >- Refonte de certaines parties du site en **HTML-CSS-JS-Bootstrap**
 >- Création d'éléments dynamiques en **JS**
 >- Utilisation de **Lang de Laravel** pour y stocker le texte en français
->- Utilisation de **FileZilla** pour le download ou l'upload des fichiers du serveur
+>- Utilisation de **FileZilla** pour le download / upload des fichiers du serveur
 
 > **Note** : *Tous les travaux réalisés ci-dessous ne sont pas encore intégrés au site de production de Yellow Relay. Ils sont pour le moment intégrés au site de test.*
 
@@ -21,7 +21,7 @@ https://yellowrelay.com/
 ### *Après*
 ![simulation final](assets/01_YR_simulation_final.png)
 
->- L'ajout et la suppression des colis sur fait en **JS**
+>- L'ajout et la suppression des colis sont fait en **JS**
 >- Les menus déroulants de ce formulaire sont fait avec la library **Select2**
 
 <br>
